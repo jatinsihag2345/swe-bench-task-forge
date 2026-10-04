@@ -62,3 +62,4 @@ class TaskValidator:
             gold_patch_verified=True,
             notes=notes
         )
+# Additional SWE-bench dataset format utilities
